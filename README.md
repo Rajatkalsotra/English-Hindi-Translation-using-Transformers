@@ -4,6 +4,33 @@ Machine translation using Transformers
 
 Dataset used  [The IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel) 
 
+### Some translations
+
+```
+translate("Trade has stopped ")
+Predicted translation: व्यापार का रोक दिया गया है । 
+```
+
+```
+translate("This is the problem we have to solve .")
+Predicted translation: इस समस्या के लिए एक साथ समस्या है जिससे हम किसी समस्या को हल करना चाहते हैं ।
+```
+
+```
+translate("Very Less employment opportunities are produced")
+Predicted translation: रोजगार की प्रतिभूति के लिए बहुत कम होती है ।
+```
+
+```
+translate("Union is strength")
+Predicted translation: संयुक्त संयोजन । 
+```
+
+```
+translate("Union of india includes several states")
+Predicted translation: भारत में संयुक्त राज्य सभा के विभिन्न राज्यों में से एक है ।  । 
+```
+
 ## Transformer
 
 ![Transformer](./images/transformer.png)
