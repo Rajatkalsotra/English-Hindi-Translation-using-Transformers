@@ -43,9 +43,9 @@ Predicted translation: भारत में संयुक्त राज्
 
 ## References
 
-<https://www.tensorflow.org/tutorials/text/transformer>
+1. <https://www.tensorflow.org/tutorials/text/transformer>
 
- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+2. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-Anoop Kunchukuttan, Pratik Mehta, Pushpak Bhattacharyya. [The IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/lrec2018_iitbparallel.pdf
+3. Anoop Kunchukuttan, Pratik Mehta, Pushpak Bhattacharyya. [The IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/lrec2018_iitbparallel.pdf
 ). Language Resources and Evaluation Conference. 2018.
