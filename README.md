@@ -28,7 +28,7 @@ Predicted translation: संयुक्त संयोजन ।
 
 ```
 translate("Union of india includes several states")
-Predicted translation: भारत में संयुक्त राज्य सभा के विभिन्न राज्यों में से एक है ।  । 
+Predicted translation: भारत में संयुक्त राज्य सभा के विभिन्न राज्यों में से एक है । 
 ```
 
 ## Transformer
