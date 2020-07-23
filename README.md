@@ -4,7 +4,7 @@ Machine translation using Transformers
 
 Dataset used  [The IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel) 
 
-### Predicted translations After 8 Epochs
+### Predicted translations after 8 Epochs
 
 ```
 translate("Trade has stopped ")
